@@ -1,0 +1,2 @@
+# mange-translate
+test
